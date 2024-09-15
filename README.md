@@ -1,2 +1,9 @@
-# X690B_DeviceTree
-This is the Device tree for Infinix note 7
+# Android device tree for Infinix Infinix X690B (Infinix-X690B)
+
+```
+#
+# Copyright (C) 2024 The LineageOS Project
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
